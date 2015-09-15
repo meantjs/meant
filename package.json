@@ -1,0 +1,39 @@
+{
+  "name": "menat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs-mate": "^2.3.0",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-typescript": "^2.8.3",
+    "gulp-watch": "^4.3.5",
+    "tsd": "^0.6.4",
+    "typescript": "^1.5.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-typescript": "^2.8.3",
+    "gulp-watch": "^4.3.5",
+    "tsd": "^0.6.4",
+    "typescript": "^1.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codydaig/menat.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codydaig/menat/issues"
+  },
+  "homepage": "https://github.com/codydaig/menat#readme"
+}
